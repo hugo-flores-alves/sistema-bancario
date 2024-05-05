@@ -1,0 +1,1 @@
+Este é um projeto de um sistema bancário simples desenvolvido em Python, criado para fins educacionais e de estudo. O sistema oferece funcionalidades básicas de um banco, como depósitos, saques, consulta de extrato e encerramento.
